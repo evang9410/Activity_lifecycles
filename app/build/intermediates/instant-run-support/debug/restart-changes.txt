@@ -1,0 +1,1 @@
+CHANGED,C:\Users\1432581\Desktop\lab03-skeleton-master\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\course\labs\activitylab\ActivityOne.class

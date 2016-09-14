@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="7216976231826"
+    token="-6133345993800093096"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="107" />
+    <task
+        name="instant-run-dex"
+        duration="382" />
+    <task
+        name="instant-run-transform"
+        duration="17" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="C:\Users\1432581\Desktop\lab03-skeleton-master\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="7096032245138" >
+        <artifact
+            location="C:\Users\1432581\Desktop\lab03-skeleton-master\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="7216976231826"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\1432581\Desktop\lab03-skeleton-master\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
